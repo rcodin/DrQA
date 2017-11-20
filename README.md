@@ -1,4 +1,5 @@
 # DrQA
+<<<<<<< HEAD
 This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051).
 
 ## Quick Links
@@ -394,3 +395,6 @@ We plan to consolidate this model into the ParlAI interface as well, so that the
 
 ## License
 DrQA is BSD-licensed. We also provide an additional patent grant.
+=======
+My modifications on DrQA
+>>>>>>> d1ef708f12844a27699810dfca8a1ab648d67f7e
